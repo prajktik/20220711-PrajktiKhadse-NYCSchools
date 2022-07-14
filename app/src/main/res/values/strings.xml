@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">NYC Schools</string>
+    <string name="school_name">Clinton School Writers &amp; Artists, M.S. 260</string>
+    <string name="school_address">Address :</string>
+    <string name="school_phone">Phone :</string>
+    <string name="school_website">www.theclintonschool.net</string>
+    <string name="reading_score">SAT Average Critical Reading Score :</string>
+    <string name="writing_score">SAT Average Writing Score :</string>
+    <string name="math_score">SAT Average Math Score :</string>
+    <string name="overview">Overview</string>
+    <string name="overview_sample">Students who are prepared for college must have an education that encourages them to take risks as they produce and perform. Our college preparatory curriculum develops writers and has built a tight-knit community. Our school develops students who can think analytically and write creatively. Our arts programming builds on our 25 years of experience in visual, performing arts and music on a middle school level. We partner with New Audience and the Whitney Museum as cultural partners. We are a International Baccalaureate (IB) candidate school that offers opportunities to take college courses at neighboring universities.</string>
+    <string name="sample_address">10 East 15th Street,Manhattan, NY 10003</string>
+    <string name="sample_phone">212–524-4360</string>
+</resources>
